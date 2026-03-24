@@ -1,0 +1,52 @@
+
+:root {
+    --color-dark: #1F2A33;
+    --color-neutral: #E7ECEB;
+    --color-accent: #3AAFA9;
+    --color-secondary: #2F8F9D;
+    --color-bg: #F7FAF9;
+    --color-highlight: #BFE8E2;
+    --color-error: #E74C3C;
+}
+
+:root {
+    --color-dark: #3B2F2F;       /* Brun espresso */
+    --color-neutral: #C4B7A6;    /* Beige moka */
+    --color-accent: #A67B5B;     /* Caramel chaud */
+    --color-secondary: #8B5E3C;  /* Noisette */
+    --color-bg: #FAF3E0;         /* Crème latte */
+    --color-highlight: #D2B48C;  /* Doré cappuccino */
+    --color-error: #D9534F;      /* Rouge brique */
+}
+
+
+:root {
+    --color-dark: #2F3E46;       
+    --color-neutral: #CAD2C5;    
+    --color-accent: #84A98C;     
+    --color-secondary: #52796F;  
+    --color-bg: #F6FFF8;         
+    --color-highlight: #A3B18A;  
+    --color-error: #E63946;     
+}
+
+
+:root {
+    --color-dark: #2C3E50;       
+    --color-neutral: #C0E0DC;    
+    --color-accent: #4DB6AC;     
+    --color-secondary: #367C7B;  
+    --color-bg: #E6F5F4;         
+    --color-highlight: #76CCC4;  
+    --color-error: #E74C3C;      
+}
+
+:root {
+    --color-dark: #2F3E46;
+    --color-neutral: #CAD2C5;
+    --color-accent: #84A98C;
+    --color-secondary: #52796F;
+    --color-bg: #F6FFF8;
+    --color-highlight: #A3B18A;
+    --color-error: #E63946;
+}
